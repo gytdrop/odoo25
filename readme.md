@@ -1,4 +1,7 @@
 # 👕 ReWear – Clothing Swap Platform
+By 1:Shaik Akthar  , btech cse , central university of haryana
+   2:Theegala Ashrith , btech cse , central university of haryana
+   3:Vikas Singh , btech cse , central university of haryana
 
 ReWear is a sustainable fashion platform built using PHP & MySQL. It allows users to exchange clothes through listing, browsing, requesting swaps, and managing inventory — with a lightweight admin panel for moderation.
 
